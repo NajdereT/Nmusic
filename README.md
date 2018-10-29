@@ -2,8 +2,7 @@
 <p align= "center">
 Nmusic is a simple, light music app.
 nothing you dont need.
-i actually made this app because a lot of app because i don't like play music and while there are som good ones
-on the play store i thought why not make one my self its still a work in progress tho
+
 </p>
 
 
@@ -11,6 +10,8 @@ on the play store i thought why not make one my self its still a work in progres
 
 
 its free so why not
+
+
 
 <img src="https://github.com/NajdereT/Nmusic/blob/master/google-play-badge.png "  height="100" >
 
@@ -20,9 +21,16 @@ its free so why not
 
 
 
+ ###  Motivation
+
+ i actually made this app because a lot of app because i don't like play music and while there are som good ones
+on the play store i thought why not make one my self its still a work in progress tho
+
+
 
 
 ### built with
+
 my willpower
 
 .... i will add the rest later.
@@ -30,7 +38,9 @@ my willpower
 
 ### versioning
 
-current version: 1.1
+| current version: 1.1|
+| --------------------|
+
 
 ### Authors
 
