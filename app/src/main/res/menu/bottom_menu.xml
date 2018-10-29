@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_music"
+        android:icon="@drawable/baseline_library_music_black_48dp"
+        android:title="songs" />
+    <item
+        android:id="@+id/action_equalizer"
+        android:icon="@drawable/baseline_album_white_48dp"
+        android:title="albums" />
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/outline_category_black_48dp"
+        android:title="genres" />
+    <item
+        android:id="@+id/action_background"
+        android:icon="@drawable/baseline_photo_black_48dp"
+        android:title="background" />
+</menu>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.github.florent37.shapeofview.shapes.ArcView
+        android:id="@+id/diagonalView"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:elevation="4dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:shape_arc_cropDirection="outside"
+        app:shape_arc_height="20dp"
+        app:shape_arc_position="bottom">
+
+        <!-- YOUR CONTENT -->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/oval">
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:text="Genres"
+                android:textAlignment="center"
+                android:textColor="@color/colorAccent"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </com.github.florent37.shapeofview.shapes.ArcView>
+
+    <GridView
+        android:id="@+id/gridview_genre"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:fadeScrollbars="true"
+        android:fadingEdge="horizontal|vertical"
+        android:fastScrollEnabled="true"
+        android:nestedScrollingEnabled="true"
+        android:numColumns="2"
+        android:orientation="vertical"
+        android:overScrollMode="always"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:scrollbarFadeDuration="20"
+        android:scrollbarSize="20dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="vertical"
+        android:smoothScrollbar="true"
+        android:verticalSpacing="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/diagonalView"
+        app:layout_optimizationLevel="chains|dimensions|groups" />
+</androidx.constraintlayout.widget.ConstraintLayout>

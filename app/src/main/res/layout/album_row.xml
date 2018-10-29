@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.florent37.shapeofview.shapes.CutCornerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="150dp"
+    android:layout_height="200dp"
+    android:clickable="true"
+    android:elevation="0dp"
+
+    android:foreground="?android:selectableItemBackground"
+    app:shape_cutCorner_bottomRightSize="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/trans"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/ivAlbumArt"
+            android:layout_width="match_parent"
+            android:layout_height="123dp"
+            app:srcCompat="@drawable/baseline_album_white_48dp" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorAccent" />
+
+        <TextView
+            android:id="@+id/tvAlbumName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingStart="5dp"
+            android:singleLine="true"
+            android:text="TextView"
+            android:textAlignment="viewStart"
+            android:textColor="@color/purewhite"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tvAlbumArtist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingStart="5dp"
+            android:singleLine="true"
+            android:text="TextView"
+            android:textAlignment="viewStart"
+            android:textColor="@color/purewhite"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tvAlbumContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:paddingStart="5dp"
+            android:singleLine="true"
+            android:text="year: unknown"
+            android:textColor="@color/purewhite"
+            android:textSize="12sp" />
+    </LinearLayout>
+</com.github.florent37.shapeofview.shapes.CutCornerView>
