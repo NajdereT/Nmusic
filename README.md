@@ -1,4 +1,4 @@
-# :notes: Nmusic :notes:----WIP
+# :notes: Nmusic     WIP
 <p align= "center">
 Nmusic is a simple, light music app.
 nothing you dont need.
