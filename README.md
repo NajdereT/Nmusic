@@ -8,9 +8,6 @@ nothing you dont need.
 
 
 
-<p> its free on the play store</p>
-
-
 
 <img src="https://github.com/NajdereT/Nmusic/blob/master/google-play-badge.png "  height="100" >
 
@@ -27,14 +24,14 @@ nothing you dont need.
 <H3>Motivation</H3>
  
 
-<p align="center">I actually made this app because a lot of app because i don't like play music and while there are som good ones
+<p>I actually made this app because a lot of app because i don't like play music and while there are som good ones
 on the play store i thought why not make one my self its still a work in progress tho.
 I do not expect this app to have many downloads </p>
 
 
 #
-<
-<H3 align="center"> versioning </H3>
+
+<H3> versioning </H3>
 
 
 | current version: 1.1|
@@ -53,7 +50,7 @@ I do not expect this app to have many downloads </p>
 - and I
 
 #
-<H3 align="center">License</H3>
+<H3>License</H3>
 
 
 <p> (c) 2018 Najdère Joseph Terlien
