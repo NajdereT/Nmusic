@@ -55,12 +55,14 @@ I do not expect this app to have many downloads </p>
 #
 <H3 align="center">License</H3>
 
-<p> This project is licensed under the MIT License - see the LICENSE.md file for details </p>
 
+<p> (c) 2018 Najdère Joseph Terlien
 
+This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
+This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-<p> Copyright by NJTstudios 2018 </p>
+You should have received a copy of the GNU General Public License along with this app. If not, see https://www.gnu.org/licenses/. </p>
 
 #
 
