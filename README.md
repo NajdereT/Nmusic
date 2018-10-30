@@ -42,7 +42,7 @@ I do not expect this app to have many downloads </p>
 <p>api 25+</p>
 
 #
-<H3>Authors</H3>
+<H3>Author</H3>
 
 
 - Najdère Joseph Terlien
