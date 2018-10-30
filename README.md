@@ -1,5 +1,15 @@
 <H1> :notes: Nmusic     WIP </H1>
-<p>
+
+<p align="center">
+  <img src="https://github.com/NajdereT/Nmusic/blob/master/FontAwesome_f001(0)_128.png" >
+ 
+ <H4 align="center"> Nmusic</H4>
+</p>
+
+
+
+
+<p align="center">
 Nmusic is a simple, light music app.
 nothing you dont need.
 </p>
