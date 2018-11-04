@@ -44,7 +44,7 @@ I do not expect this app to have many downloads </p>
 <H3> versioning </H3>
 
 
-| current version: 1.1|
+| current version: 1.4|
 | --------------------|
 
 <p>this app is currently only tested with android 8.0 and above.</p>
